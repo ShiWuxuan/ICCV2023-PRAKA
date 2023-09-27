@@ -3,8 +3,7 @@
 
 ### [ICCV 2023] Prototype Reminiscence and Augmented Asymmetric Knowledge Aggregation for Non-Exemplar Class-Incremental Learning
 
-Our code is coming soon.
-
+Wxuan shi, [Mang Ye](https://marswhu.github.io/)*
 
 ## Usage
 
