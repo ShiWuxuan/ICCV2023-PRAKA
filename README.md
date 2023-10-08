@@ -3,9 +3,9 @@
 
 ### [ICCV 2023] Prototype Reminiscence and Augmented Asymmetric Knowledge Aggregation for Non-Exemplar Class-Incremental Learning
 
-[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Shi_Prototype_Reminiscence_and_Augmented_Asymmetric_Knowledge_Aggregation_for_Non-Exemplar_Class-Incremental_ICCV_2023_paper.pdf) | [supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Shi_Prototype_Reminiscence_and_ICCV_2023_supplemental.pdf)
-
 [Wuxuan shi](https://scholar.google.com/citations?user=p5jF5dAAAAAJ&hl=zh-CN&oi=ao), [Mang Ye](https://marswhu.github.io/)*
+
+[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Shi_Prototype_Reminiscence_and_Augmented_Asymmetric_Knowledge_Aggregation_for_Non-Exemplar_Class-Incremental_ICCV_2023_paper.pdf) | [Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Shi_Prototype_Reminiscence_and_ICCV_2023_supplemental.pdf)
 
 ## Usage
 
