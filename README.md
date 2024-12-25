@@ -21,9 +21,11 @@ Arguments you can freely tweak given a dataset:
 * --fg_nc: number of classes of initial tasks
 * --root: path of datasets (replace [your dataset path] with your own dataset root)
 
+## Dataset
+We provide a version of the ImageNet-Subset dataset (randomly seeded 1993) that has been segmented for academic research use only. Click [here](https://mega.nz/file/9ikj1bbB#Zax1V7Q1xPlkxu8C9bOq8Ocq6WAu_-jtyqvta2hkTN0) to get it. 
 
 ## Citation
-If you use this code for your research, please consider citing:
+We are glad that the information provided by this repository is useful for your research and would be grateful if you would consider citing:
 
 ```
 @inproceedings{shi2023prototype,
